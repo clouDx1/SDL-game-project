@@ -1,0 +1,2 @@
+1 "Short Sword"
+2 "Noob Armor"

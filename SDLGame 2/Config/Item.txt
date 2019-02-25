@@ -1,0 +1,2 @@
+(Index 1)(Name 1)(Desc 1)(Type 0)(Texture 1)(Image 1)(Attack 5)(Eva 0)(Def 0)(Otp 5)(Str 5)(Hth 0)(Agi 5);
+(Index 2)(Name 2)(Desc 2)(Type 1)(Texture 2)(Image 2)(Attack 0)(Eva 1)(Def 2)(Otp 0)(Str 0)(Hth 3)(Agi 0);
